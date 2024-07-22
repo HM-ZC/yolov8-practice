@@ -1,0 +1,3 @@
+ultralytics
+opencv-python-headless
+cv_bridge
